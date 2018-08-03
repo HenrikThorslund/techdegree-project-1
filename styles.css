@@ -25,7 +25,7 @@ a:hover {
 
 .main-nav {
   width: 100%;
-  background: black;
+  background: lightblue;
   min-height: 30px;
   padding: 10px;
   position: fixed;
@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('images/BackGround.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -106,6 +106,19 @@ ul.skills {
   padding: 0;
   text-align: center;
 }
+
+ul.skillsMoreInfo
+{
+  border:9px solid lightgreen;
+  padding: 0px;
+  padding-top: 25px;
+  text-align: center;
+}
+
+
+
+
+
 
 .skills li {
   border-radius: 6px;
